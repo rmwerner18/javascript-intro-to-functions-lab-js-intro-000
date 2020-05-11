@@ -5,4 +5,3 @@ function logWhisper(string) {console.log(string.toLowerCase())}
 function sayHiToGrandma(string) {if(var string === string.toLowerCase) {console.log("I can't hear you!")}
 else if(var string === string.toUpperCase) {console.log("YES INDEED")}
 else if(var string === "I love you grandma.") {console.log("I love you too.")}}
-
